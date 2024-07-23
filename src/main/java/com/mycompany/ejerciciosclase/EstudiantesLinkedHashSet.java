@@ -216,7 +216,7 @@ private void agregarEstudiante(String nombreCompleto) {
         guardarEstudiantes();
         nombreField.setText("");
     } else {
-        mensajeLabel.setText("El estudiante ya está en la lista.");
+        mensajeLabel.setText("El estudiante ya está en la lista SOY JAIR XD.");
     }
 }
 
